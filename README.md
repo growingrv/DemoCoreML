@@ -1,10 +1,11 @@
 # DemoCoreML
-DemoCoreML is sample app which **demonstrates machine learning usage & utilizes image recognition.**
+A sample app which **demonstrates machine learning usage & utilizes image recognition.**
 
 ## Functional details:
 * The app captures screenshots from a playing video.
 * The app processes the screenshots and fetches objects from the image.
-* The app records and stores the objects from image.
+* The app records, maps and stores the objects from image.
+* Once objects are available, there can be many operations which can be done using those objects. 
 * As an extra feature, app shows ads *OR* articles *OR* search results based on the object being identified. 
 * Example: For object "alps", user sees Booking.com home page, For object "cats" user sees youtube video recommendations. 
 
