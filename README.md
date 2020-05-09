@@ -14,31 +14,33 @@ DemoCoreML is sample app for which **demonstrates machine learning & image recog
 * The app uses **Google's Inceptionv3 model** for image recognition. 
 
 ## Screenshots
+
+***
 <img src = "Screens/1.png">
 
-
+***
 <img src = "Screens/2.png">
 
-
+***
 <img src = "Screens/3.png">
 
-
+***
 <img src = "Screens/4.png">
 
-
+***
 <img src = "Screens/5.png">
 
-
+***
 <img src = "Screens/6.png">
 
-
+***
 <img src = "Screens/7.png">
 
-
+***
 <img src = "Screens/8.png">
 
-
+***
 <img src = "Screens/9.png">
 
-
+***
 <img src = "Screens/10.png">
