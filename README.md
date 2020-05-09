@@ -1,5 +1,5 @@
 # DemoCoreML
-DemoCoreML is sample app for which **demonstrates machine learning & image recognition.**
+DemoCoreML is sample app which **demonstrates machine learning usage & utilizes image recognition.**
 
 ## Functional details:
 * The app captures screenshots from a playing video.
