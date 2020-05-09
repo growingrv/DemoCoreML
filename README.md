@@ -5,7 +5,7 @@ DemoCoreML is sample app for which **demonstrates machine learning & image recog
 * The app captures screenshots from a playing video.
 * The app processes the screenshots and fetches objects from the image.
 * The app records and stores the objects from image.
-* As an extra feature, app shows ads/articles/search results based on the object being identified. 
+* As an extra feature, app shows ads *OR* articles *OR* search results based on the object being identified. 
 * Example: For object "alps", user sees Booking.com home page, For object "cats" user sees youtube video recommendations. 
 
 ## Implementation details:
